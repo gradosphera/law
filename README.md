@@ -1,18 +1,18 @@
 # Юридические документы
 
-## Децентрализованная Автономная Оргнизация Градосфера
+## Децентрализованная Автономная Организация Градосфера
 
 ### Устав
 
-[Устав](/RU/cons/charter.md)
+[Устав](https://github.com/gradosphera/law/blob/main/RU/cons/charter.md)
 
 ### Протокол учредительного собрания
 
-[Протокол](/RU/protocol1.md)
+[Протокол](https://github.com/gradosphera/law/blob/main/RU/protocol1.md)
 
-### Цели
+### Соглашение о мультиподписи
 
-Цели
+[Соглашение](https://github.com/gradosphera/law/blob/main/RU/agreement.md)
 
 ## Законодательство Российской Федерации
 
@@ -28,3 +28,7 @@
 ### Гражданский кодекс
 
 ГК РФ
+
+### Голос
+
+Telegram Голос
